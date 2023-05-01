@@ -1,0 +1,30 @@
+body{
+    background-image: url("img1.webp");
+    background-size:cover;
+
+}
+.content-center{
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding:150px;
+}
+
+button{
+    padding:10px;
+    width:auto;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+#i-btn{
+    background-color:aquamarine;
+}
+#s-btn{
+    background-color:cornflowerblue;
+}
+h3{
+    color:black;
+    font-size:xx-large;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
